@@ -18,3 +18,11 @@ git add submission
 git commit -m "add team document"
 git push
 ```
+
+
+Team members:
+Ryan Slocum - RyanS161
+Zack Gacnik - zaga6889
+Sultan Alfoory - Alfori
+Sunyojita Rattu - sura9059
+Brandon Warren - brwa7446
